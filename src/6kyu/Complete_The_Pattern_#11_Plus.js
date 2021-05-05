@@ -1,7 +1,7 @@
-/*
-6 kyu - Complete The Pattern #11 - Plus
-https://www.codewars.com/kata/5589ad588ee1db3f5e00005a/train/javascript
-*/
+/**
+ * 6 kyu - Complete The Pattern #11 - Plus
+ * https://www.codewars.com/kata/5589ad588ee1db3f5e00005a/train/javascript
+ */
 
 function pattern(n) {
   let output = '';

@@ -1,4 +1,4 @@
-const pattern = require('../6kyu/Interesting_Pyramid');
+const pattern = require('../../6kyu/Interesting_Pyramid');
 
 describe('Interesting Pyramid Suite', () => {
   test('should remind when input less than zero', () => {

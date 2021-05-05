@@ -1,7 +1,7 @@
-/*
-Check if two words are isomorphic to each other
-https://www.codewars.com/kata/check-if-two-words-are-isomorphic-to-each-other
-*/
+/**
+ * Check if two words are isomorphic to each other
+ * https://www.codewars.com/kata/check-if-two-words-are-isomorphic-to-each-other
+ */
 
 function isomorph(a, b) {
   if (a.length !== b.length) {

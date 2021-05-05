@@ -1,4 +1,4 @@
-const getSolution = require('../6kyu/Plus_minus_plus_Sum');
+const getSolution = require('../../6kyu/Plus_minus_plus_Sum');
 
 describe('Plus minus plus sum suite', () => {
   test('should result negative', () => {

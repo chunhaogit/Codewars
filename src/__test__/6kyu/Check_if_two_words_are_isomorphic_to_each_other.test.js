@@ -1,4 +1,4 @@
-const isomorph = require('../6kyu/Check_if_two_words_are_isomorphic_to_each_other');
+const isomorph = require('../../6kyu/Check_if_two_words_are_isomorphic_to_each_other');
 
 describe('isomorphic suite', () => {
   test('Should handle different Uppercase', () => {

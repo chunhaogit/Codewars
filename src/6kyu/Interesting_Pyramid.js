@@ -1,3 +1,8 @@
+/**
+ * Interesting Pyramid
+ * https://www.codewars.com/kata/5711efdcdf94ddeeba0001d7
+ */
+
 const pattern = (n) => {
   if (n < 0 || n % 1 !== 0) {
     return 'check input';

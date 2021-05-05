@@ -1,6 +1,6 @@
-/*
-Plus - minus - plus - plus - ... - Sum
-https://www.codewars.com/kata/5bc463f7797b00b661000118/train/javascript
+/**
+ * Plus - minus - plus - plus - ... - Sum
+ * https://www.codewars.com/kata/5bc463f7797b00b661000118/train/javascript
  */
 
 const getSolution = (arr, sum) => {

@@ -1,4 +1,4 @@
-const howmuch = require('../6kyu/How_Much');
+const howmuch = require('../../6kyu/How_Much');
 
 describe('How Much suite', () => {
   test('should have all possibilities', () => {

@@ -1,4 +1,4 @@
-const pattern = require('../6kyu/Complete_The_Pattern_#11_Plus');
+const pattern = require('../../6kyu/Complete_The_Pattern_#11_Plus');
 
 describe('pattern suite', () => {
   test('Basic Tests', () => {
